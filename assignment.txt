@@ -1,0 +1,2 @@
+Use Spring Container to manage bean life-cycle and dependencies.
+Externalize all strings into properties file.
